@@ -14,8 +14,7 @@ Gather data related to Bike sales made globally that sheds light on sales demogr
 
 **TOOLSET**
 
-- Excel
-- Tableau
+- `Excel` `Tableau`
 
 ------------------------------
 
